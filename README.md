@@ -1,4 +1,3 @@
-To integrate the provided code into the GitHub documentation for your project, I'll organize the content into appropriate sections. This documentation will combine the YOLOv10 face mask detection details with the code you've shared for age detection using a ResNet50 model.
 
 ---
 
